@@ -100,4 +100,4 @@ If you have any questions about this privacy policy, please contact us at:  **[I
 ## Future Updates
 
 This is a work in progress and will be updated accordingly.
-Terms of Service are based on [template-terms-of-service/privacy_template.md](github.com/appdotnet/template-terms-of-service/blob/master/privacy_template.md)
+Privacy Policy is based on [template-terms-of-service/privacy_template.md](github.com/appdotnet/template-terms-of-service/blob/master/privacy_template.md)
