@@ -1,8 +1,8 @@
 # **LO MEIN** PRIVACY POLICY
 
-Last Revised: **13 October, 2026**
+Last Revised: **13 OCTOBER, 2026**
 
-Our privacy policy applies to information we collect when you use or access our website, application, or just interact with us. We may change this privacy policy from time to time. Whenever we make changes to this privacy policy, the changes are effective **[TIME PERIOD]** after we post the revised privacy policy (as indicated by revising the date at the top of our privacy policy). We encourage you to review our privacy policy whenever you access our services to stay informed about our information practices and the ways you can help protect your privacy.
+Our privacy policy applies to information we collect when you use or access our website, application, or just interact with us. We may change this privacy policy from time to time. Whenever we make changes to this privacy policy, the changes are effective **90 DAYS** after we post the revised privacy policy (as indicated by revising the date at the top of our privacy policy). We encourage you to review our privacy policy whenever you access our services to stay informed about our information practices and the ways you can help protect your privacy.
 
 ## Collection of Information
 
@@ -53,7 +53,7 @@ We may share personal information about you as follows:
 
 * With third party vendors and other service providers who need access to your information to carry out work on our behalf, such as **[DESCRIBE TYPES OF THIRD PARTY SERVICE PROVIDERS, IF APPLICABLE]**;
 * If we believe disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or governmental request;
-* To enforce applicable user agreements or policies, including our Terms of Service **[URL FOR TERMS OF SERVICE]**; and to protect us, our users or the public from harm or illegal activities;
+* To enforce applicable user agreements or policies, including our Terms of Service **[lo-mein-me.github.io/TermsOfService.md](lo-mein-me.github.io/TermsOfService.md)**; and to protect us, our users or the public from harm or illegal activities;
 * In connection with any merger, sale of **LO MEIN** assets, financing or acquisition of all or a portion of our business to another company; and
 * If we notify you through our services (or in our privacy policy) that the information you provide will be shared in a particular manner and you provide such information.
 
