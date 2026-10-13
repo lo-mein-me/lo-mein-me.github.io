@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <meta name="description" content="lo mein">
-    <meta name="keywords" content="lo mein, lo, mein">
-    <meta name="author" content="lo mein">
-    <title>Terms of Service</title>
-  </head>
-  <body>
 # **LO MEIN** TERMS OF SERVICE
 
 Last Updated: **13 OCTOBER, 2026**
@@ -28,7 +18,7 @@ If you continue to use the Service after the revised Terms go into effect, then 
 
 ## Privacy Policy
 
-For information about how we collect and use information about users of the Service, please check out our privacy policy available at **[lo-mein-me.github.io/PrivacyPolicy.html](lo-mein-me.github.io/PrivacyPolicy.html)**.
+For information about how we collect and use information about users of the Service, please check out our privacy policy available at **[lo-mein-me.github.io/PrivacyPolicy.md](lo-mein-me.github.io/PrivacyPolicy.md)**.
 
 ## Third-Party Services
 
@@ -133,6 +123,3 @@ Questions or comments about the Service may be directed to us at the email addre
 
 This is a work in progress and will be updated accordingly.
 Terms of Service are based on [template-terms-of-service/terms_template.md](github.com/appdotnet/template-terms-of-service/blob/master/terms_template.md)
-
-  </body>
-</html>
