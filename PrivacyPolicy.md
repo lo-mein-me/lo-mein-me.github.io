@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <meta name="description" content="lo mein">
-    <meta name="keywords" content="lo mein, lo, mein">
-    <meta name="author" content="lo mein">
-    <title>Privacy Policy</title>
-  </head>
-  <body>
 # **LO MEIN** PRIVACY POLICY
 
 Last Revised: **13 OCTOBER, 2026**
@@ -63,7 +53,7 @@ We may share personal information about you as follows:
 
 * With third party vendors and other service providers who need access to your information to carry out work on our behalf, such as **[DESCRIBE TYPES OF THIRD PARTY SERVICE PROVIDERS, IF APPLICABLE]**;
 * If we believe disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or governmental request;
-* To enforce applicable user agreements or policies, including our Terms of Service **[lo-mein-me.github.io/TermsOfService.html](lo-mein-me.github.io/TermsOfService.html)**; and to protect us, our users or the public from harm or illegal activities;
+* To enforce applicable user agreements or policies, including our Terms of Service **[lo-mein-me.github.io/TermsOfService.md](lo-mein-me.github.io/TermsOfService.md)**; and to protect us, our users or the public from harm or illegal activities;
 * In connection with any merger, sale of **LO MEIN** assets, financing or acquisition of all or a portion of our business to another company; and
 * If we notify you through our services (or in our privacy policy) that the information you provide will be shared in a particular manner and you provide such information.
 
@@ -111,6 +101,3 @@ If you have any questions about this privacy policy, please contact us at:  **[I
 
 This is a work in progress and will be updated accordingly.
 Privacy Policy is based on [template-terms-of-service/privacy_template.md](github.com/appdotnet/template-terms-of-service/blob/master/privacy_template.md)
-
-  </body>
-</html>
